@@ -54,6 +54,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'the-weave' } }]
         },
         {
+          label: 'Founding Families',
+          items: [{ autogenerate: { directory: 'founding-families' } }]
+        },
+        {
           label: 'Reference',
           items: [{ autogenerate: { directory: 'reference' } }],
         },

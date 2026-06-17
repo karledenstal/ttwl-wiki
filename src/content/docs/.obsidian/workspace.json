@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-weave/overview.md",
+                "file": "founding-families/wolfe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "wolfe"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-weave/overview.md",
+                "file": "founding-families/wolfe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overview"
+              "title": "Backlinks for wolfe"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-weave/overview.md",
+                "file": "founding-families/wolfe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from overview"
+              "title": "Outgoing links from wolfe"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-weave/overview.md",
+                "file": "founding-families/wolfe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline of wolfe"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "f16ece7eed328169",
   "lastOpenFiles": [
+    "founding-families/von-brandt.md",
+    "founding-families/wolfe.md",
+    "founding-families/lunares.md",
+    "founding-families/argyris.md",
+    "founding-families/byrd.md",
+    "the-weave/overview.md",
+    "founding-families",
     "reference/gifted-disciplines.md",
     "reference/hollowborn-tools.md",
     "reference/secrets.md",
@@ -204,7 +211,6 @@
     "field-guide/alchemy.md",
     "field-guide/herbology.md",
     "pike-creek/brief-history.md",
-    "the-weave/overview.md",
     "reference/blood-quality.md",
     "bestiary/gifted.md~",
     "bestiary/gifted.mdx~",
@@ -212,7 +218,6 @@
     "the-weave/the-knot.md~",
     "the-weave",
     "pike-creek",
-    "bestiary/overview.md",
     "field-guide"
   ]
 }
