@@ -36,7 +36,7 @@ The local radio station is WBPC 106.1, Pike Creek Public Radio. While it’s pos
 Internet access is available throughout Pike Creek, though speeds vary by location. Cell service is generally decent, but can be spotty, particularly near the forest and lake.
 
 ---
-## Healthcare & emergencies
+## Healthcare & Emergencies
 
 Pike Creek is served by a small number of medical clinics that handle routine care and minor emergencies. Ambulances transport patients to a larger nearby town, while more serious cases may be airlifted if weather conditions allow.  
   

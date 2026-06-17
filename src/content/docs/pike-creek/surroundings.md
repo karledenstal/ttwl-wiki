@@ -16,7 +16,7 @@ Hemlock Lake is large enough for floatplanes to take off and land safely as long
 ---
 ## The Forest
 
-The Forest goes by many names, but no official one. Most people simply refer to it as "the forest", or "the woods". It surrounds the town and the lake and gets really dense the deeper you go into it. It stretches on for a long while, and no one is really sure where the border of Pike Creek ends and begins.  
+The Forest goes by many names, but no official one. Most people simply refer to it as _"the forest"_, or _"the woods"_. It surrounds the town and the lake and gets really dense the deeper you go into it. It stretches on for a long while, and no one is really sure where the border of Pike Creek ends and begins.  
   
 Plenty of businesses survive and thrive off of the forest. While not forest-related, the Wolfe Quarry lies in the middle of it, close to the rocky uplands, and serves as the main supplier of stone, gravel, and other rock-related materials. They also extract small amounts of coal from older seams uncovered during excavation, though far less than they once did. This is partly due to von Brandt–backed clean energy initiatives reducing demand, and partly because the quarry was never a dedicated coal mine.  
   

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "founding-families/wolfe.md",
+                "file": "bestiary/lycanthrope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wolfe"
+              "title": "lycanthrope"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "founding-families/wolfe.md",
+                "file": "bestiary/lycanthrope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wolfe"
+              "title": "Backlinks for lycanthrope"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "founding-families/wolfe.md",
+                "file": "bestiary/lycanthrope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from wolfe"
+              "title": "Outgoing links from lycanthrope"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "founding-families/wolfe.md",
+                "file": "bestiary/lycanthrope.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of wolfe"
+              "title": "Outline of lycanthrope"
             }
           }
         ]
@@ -185,9 +185,18 @@
   },
   "active": "f16ece7eed328169",
   "lastOpenFiles": [
+    "pike-creek/surroundings.md",
+    "pike-creek/infrastructure.md",
+    "pike-creek/overview.md",
+    "bestiary/damned.md",
+    "bestiary/lycanthrope.md",
+    "bestiary/human.md",
+    "bestiary/faded.md",
+    "bestiary/gifted.md",
+    "reference/blood-quality.md",
+    "founding-families/wolfe.md",
     "index.mdx~",
     "founding-families/von-brandt.md",
-    "founding-families/wolfe.md",
     "founding-families/lunares.md",
     "founding-families/argyris.md",
     "founding-families/byrd.md",
@@ -199,15 +208,7 @@
     "reference/faith.md",
     "reference/establishments.md",
     "bestiary/skinwalker.md",
-    "bestiary/lycanthrope.md",
-    "bestiary/human.md",
     "bestiary/hollowborn.md",
-    "bestiary/damned.md",
-    "bestiary/faded.md",
-    "bestiary/gifted.md",
-    "pike-creek/infrastructure.md",
-    "pike-creek/surroundings.md",
-    "pike-creek/overview.md",
     "field-guide/diseases.md",
     "field-guide/alchemy.md",
     "field-guide/herbology.md",

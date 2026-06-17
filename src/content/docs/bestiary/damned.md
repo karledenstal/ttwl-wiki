@@ -133,3 +133,6 @@ Damned stories often explore:
 A Damned is not haunted by a monster.
 
 They are haunted by themselves.
+
+## See also
+- [Tenuitas](/field-guide/diseases/#tenuitas)

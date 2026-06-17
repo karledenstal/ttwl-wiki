@@ -97,3 +97,4 @@ They are defined by how they choose to live with it.
 
 ## See also
 - [Species Blood Quality](/reference/blood-quality)
+- [Sanguinare](/field-guide/diseases/#sanguinare)

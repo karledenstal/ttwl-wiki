@@ -167,3 +167,8 @@ Lycan stories often explore:
 A Lycan is not learning how to control the wolf.
 
 They are learning how to live with it.
+
+## See also
+- [Aconite](/field-guide/herbology/#aconite)
+- [Alchemy](/field-guide/alchemy)
+- [Canis Hysteria](/field-guide/diseases/#canis-hysteria)
