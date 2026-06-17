@@ -8,6 +8,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'TTWL Wiki',
+      logo: {
+        src: './src/assets/knot.png',
+        alt: 'TTWL Wiki',
+        replacesTitle: true
+      },
       social: [{ icon: 'window', label: 'Home', href: 'https://ttwl-rp.net' }],
       favicon: '/favicon.png',
       plugins: [
