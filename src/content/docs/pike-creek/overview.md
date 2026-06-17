@@ -2,4 +2,43 @@
 title: Pike Creek Overview
 description: An overview of the town
 ---
-lol
+Pike Creek is a small town in northern Minnesota, set between dense forest and the cold, expansive waters of Hemlock Lake. It’s reachable by road, though the drive often takes longer than expected, and GPS becomes unreliable near town.  
+  
+Most visitors arrive by car. Others come by floatplane, landing directly on the lake when conditions allow. Despite Hemlock Lake’s size, there are no public boat services into Pike Creek.  
+  
+The town maintains a local radio broadcast that carries well beyond its borders. Signals are clear. Directions, less so.  
+  
+Pike Creek is easy to miss, and harder to leave behind.
+
+---
+## Districts
+
+The town itself is divided into three districts: **Market, Harbor Row** and **Old Town**.
+### The Market
+
+Market is the largest district in Pike Creek and functions as its downtown area. When someone tells you to “meet in town,” this is what they mean.
+
+Named rather lazily after the farmer’s markets that take place in the town square every Sunday, Market has since evolved into the heart of Pike Creek. This is where you’ll find Town Hall, grocery stores, and popular gathering spots like Greg’s.
+
+Market connects easily to the rest of Pike Creek, making it a natural hub for the town as a whole.
+### Old Town
+
+Old Town is old Pike Creek. This is where the town began, and while it has expanded over time, it remains relatively small due to its cultural significance.
+
+Most villas and houses are found here, though there’s no shortage of charming, cramped apartments. All religious buildings in Pike Creek are located in Old Town, including Pike Creek Community Church and the Catholic chapel. Their cemeteries sit close enough that they almost blend together.
+
+You’ll also find Pike Creek’s only library here, along with a variety of quaint shops and cafés scattered throughout the district. Of all the areas in Pike Creek, Old Town is widely considered the coziest.
+### Harbor Row
+
+Harbor Row began as the fishing center of Pike Creek. Situated along Hemlock Lake, it was originally made up of docks, warehouses, and small apartments for fishermen and dock workers.
+
+Over time, Harbor Row expanded into the second-largest district in town. While most people associate it with the wooded promenade along the docks and water, the district stretches further inland, gradually blending into Market.
+
+Along the promenade, you’ll find Harbor Row’s most recognizable features: crooked wooden buildings that rise a little too high, the pub Port on Sixth, and the daily fish market. Moving away from the water, brick houses give way to coffee shops, small stores, and apartments tucked into the neighborhood.
+
+---
+## Surroundings
+
+Pike Creek is surrounded by vast, dense forest, the kind that keeps its secrets well. Out on the water, on a lone island in Hemlock Lake, stands the Lighthouse, its presence felt even when it’s barely visible through the fog. Deeper in the woods lies the Wolfe Quarry, carved into the land long before the town learned to look away from it.  
+  
+Scattered throughout the forest are remnants of what Pike Creek once tried to build and then abandon: entrances to old tunnels beneath the town, long since flooded; caves cut into the rock; collapsing shacks reclaimed by moss and rot; and burial grounds that predate any modern map.

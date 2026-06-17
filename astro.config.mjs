@@ -44,6 +44,7 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             { label: 'Overview', slug: 'pike-creek/overview' },
+            { label: 'Brief History', slug: 'pike-creek/brief-history' },
             { label: 'Infrastructure', slug: 'pike-creek/infrastructure' },
             { label: 'Surroundings', slug: 'pike-creek/surroundings' },
           ],
