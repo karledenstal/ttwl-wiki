@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bestiary/lycanthrope.md",
+                "file": "bestiary/skinwalker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lycanthrope"
+              "title": "skinwalker"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bestiary/lycanthrope.md",
+                "file": "bestiary/skinwalker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lycanthrope"
+              "title": "Backlinks for skinwalker"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bestiary/lycanthrope.md",
+                "file": "bestiary/skinwalker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lycanthrope"
+              "title": "Outgoing links from skinwalker"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bestiary/lycanthrope.md",
+                "file": "bestiary/skinwalker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lycanthrope"
+              "title": "Outline of skinwalker"
             }
           }
         ]
@@ -185,34 +185,34 @@
   },
   "active": "f16ece7eed328169",
   "lastOpenFiles": [
-    "pike-creek/surroundings.md",
-    "pike-creek/infrastructure.md",
-    "pike-creek/overview.md",
-    "bestiary/damned.md",
+    "bestiary/overview.md",
     "bestiary/lycanthrope.md",
     "bestiary/human.md",
-    "bestiary/faded.md",
+    "bestiary/hollowborn.md",
     "bestiary/gifted.md",
+    "bestiary/faded.md",
+    "bestiary/damned.md",
+    "the-weave/overview.md",
+    "reference/hollowborn-tools.md",
+    "reference/secrets.md",
+    "reference/gifted-disciplines.md",
+    "reference/faith.md",
+    "reference/establishments.md",
     "reference/blood-quality.md",
+    "pike-creek/surroundings.md",
+    "pike-creek/overview.md",
+    "pike-creek/infrastructure.md",
+    "pike-creek/brief-history.md",
+    "founding-families/byrd.md",
+    "founding-families/argyris.md",
+    "field-guide/herbology.md",
+    "field-guide/diseases.md",
     "founding-families/wolfe.md",
     "index.mdx~",
     "founding-families/von-brandt.md",
     "founding-families/lunares.md",
-    "founding-families/argyris.md",
-    "founding-families/byrd.md",
-    "the-weave/overview.md",
     "founding-families",
-    "reference/gifted-disciplines.md",
-    "reference/hollowborn-tools.md",
-    "reference/secrets.md",
-    "reference/faith.md",
-    "reference/establishments.md",
     "bestiary/skinwalker.md",
-    "bestiary/hollowborn.md",
-    "field-guide/diseases.md",
-    "field-guide/alchemy.md",
-    "field-guide/herbology.md",
-    "pike-creek/brief-history.md",
     "bestiary/gifted.md~",
     "bestiary/gifted.mdx~",
     "bestiary/gifted.mdx",

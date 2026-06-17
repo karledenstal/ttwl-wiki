@@ -4,6 +4,7 @@ description: Special illnesses present in the world
 ---
 Any disease that exists in the real world is of course present in Pike Creek, but there are also a few diseases that are very specific to the setting and the town. These often present with symptoms similar to common illnesses, but generally have no cure. These diseases are not known in the scientific world and there are no doctors that can help you if you contract them.
 
+---
 ## Canis Hysteria
 
 The only way to become a Lycanthrope is by contracting _Canis Hysteria._ This is a highly contagious disease spread through wounds inflicted by a werewolf. It is most potent when a human is between the ages 25 and 40. Gifted, Faded, Damned, Skinwalkers and Hollowborn are immune to _Canis Hysteria._

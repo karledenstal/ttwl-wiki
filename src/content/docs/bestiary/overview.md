@@ -4,6 +4,7 @@ description: Playable species of Those That Went Looking
 ---
 While there are many different supernatural beings in Pike Creek, there are six (6) playable archetypes available to players. Each functions differently and offers a distinct narrative experience and playstyle. We don't limit the amount of each archetype you can create, but we encourage you to try them all out.
 
+---
 ## Complexity
 
 Each archetype in TTWL is tagged with a measurement of complexity: **Basic**, **Moderate**, or **Advanced**.
